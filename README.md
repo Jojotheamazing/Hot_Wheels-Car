@@ -23,7 +23,19 @@ So the goal is to get one of my Hot Wheels cars to be functional by adding motor
   - Expo throttle for smoother acceleration
   - A save button which will save the settings on the ESP32 so there isn't a need to change them every time
 
+## Components
+
+| Component | Purpose |
+| ESP32-C3 | Main controller |
+| DRV8833 | Motor driver |
+| 1.5 g linear servo | Steering |
+| Motor | The motion |
+
+See the full [Parts List](parts-list.md)
+
 ---
+
+
 
 Feel free to download everything and modify it however you like!
 
