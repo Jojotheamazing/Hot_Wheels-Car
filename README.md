@@ -27,12 +27,14 @@ So the goal is to get one of my Hot Wheels cars to be functional by adding motor
 
 | Component | Purpose | Link |
 |---|---|---|
-| ESP32-C3 | Main controller with Wi-Fi | [AliExpress](https://www.aliexpress.com/item/1005007187617708.html) |
-| DRV8833 Motor Driver | Controls the DC motor | [AliExpress](https://www.aliexpress.com/item/1005010448583238.html) |
-| 1.5 g Linear Servo | Steering system | [AliExpress](https://www.aliexpress.com/item/1005009044264044.html) |
-| Coreless DC Motor | The mottion | [AliExpress](https://www.aliexpress.com/item/1005006109082351.html) |
+| ESP32-C3 | Main controller with Wi-Fi | [AliExpress](https://www.aliexpress.com/item/1005006109082351.html) |
+| DRV8833 Motor Driver | Controls the DC motor | [AliExpress]( https://www.aliexpress.com/item/1005009044264044.html) |
+| 1.5 g Linear Servo | Steering system | [AliExpress](https://www.aliexpress.com/item/1005007187617708.html) |
+| Coreless DC Motor | The mottion | [AliExpress](https://www.aliexpress.com/item/1005008964639480.html) |
 | 601633 LiPo Battery | LiPo battery | [AliExpress](https://www.aliexpress.com/item/1005008218024646.html) |
-| TP4056 Charging Module  | Battery charger | [AliExpress](https://www.aliexpress.com/item/1005008964639480.html) |
+| TP4056 Charging Module  | Battery charger | [AliExpress](https://www.aliexpress.com/item/1005005982385924.html) |
+| SS12D00 3Pin Toggle Switch 1P2T 2 Position  | Power Switch | [AliExpress](https://www.aliexpress.com/item/1005005982385924.html) |
+| Mini DC-DC Boost Module | Power for motor | [AliExpress](https://www.aliexpress.com/item/1005007992769446.html) |
 
 ---
 
