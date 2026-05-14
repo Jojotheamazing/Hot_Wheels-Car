@@ -35,7 +35,7 @@ So the goal is to get one of my Hot Wheels cars to be functional by adding motor
 | TP4056 Charging Module  | Battery charger | [AliExpress](https://www.aliexpress.com/item/1005005982385924.html) |
 | SS12D00 3Pin Toggle Switch 1P2T 2 Position  | Power Switch | [AliExpress](https://www.aliexpress.com/item/1005005982385924.html) |
 | Mini DC-DC Boost Module | Power for motor | [AliExpress](https://www.aliexpress.com/item/1005007992769446.html) |
-
+| 1.2mm Nails | For steering wheels | Anywhere |
 ---
 
 
