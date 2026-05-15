@@ -37,6 +37,7 @@ So the goal is to get one of my Hot Wheels cars to be functional by adding motor
 | Mini DC-DC Boost Module | Power for motor | [AliExpress](https://www.aliexpress.com/item/1005007992769446.html) |
 | 1.2mm Nails | For steering wheels | Anywhere |
 ---
+You can see and edit the 3d model in onShape: https://cad.onshape.com/documents/f10e87d5d1a2dad3236470ab/w/f1481a050fec03bc3c35e125/e/4facaef65102b49a36f9e8eb?renderMode=0&uiState=6a06d694dea5e7e2bb82ecd9
 
 
 
