@@ -39,6 +39,15 @@ So the goal is to get one of my Hot Wheels cars to be functional by adding motor
 ---
 You can see and edit the 3d model in onShape: https://cad.onshape.com/documents/f10e87d5d1a2dad3236470ab/w/f1481a050fec03bc3c35e125/e/4facaef65102b49a36f9e8eb?renderMode=0&uiState=6a06d694dea5e7e2bb82ecd9
 
+## Wiring
+
+Here is an image showing all the connections but here are some notes too:
+- On the boost converter you need to unsolder the b pad and only leave A soldered to set it to 9 volts
+- All the Black wires are ground and it doesnt matter in which ground you connect it.
+- The bright red wire is the battery power while the dark red is 9 volts so becareful not to mix it up and burn anything.
+- The in1 and in2 doesnt matter if you reverse it same with out1 and out2 you might just need to reverse the diraction in the code.
+  
+<img width="1672" height="941" alt="Schematic" src="https://github.com/user-attachments/assets/78129510-1490-4b84-ada9-800b9cbb02ff" />
 
 
 Feel free to download everything and modify it however you like!
