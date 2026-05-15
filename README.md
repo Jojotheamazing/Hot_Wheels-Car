@@ -50,6 +50,9 @@ Here is an image showing all the connections but here are some notes too:
 <img width="1672" height="941" alt="Schematic" src="https://github.com/user-attachments/assets/78129510-1490-4b84-ada9-800b9cbb02ff" />
 
 
+I should also credit an amazing YouTuber which I got inspiration for this project idea: @MaxImagination
+Go check his other projects: https://www.youtube.com/@MaxImagination
+
 Feel free to download everything and modify it however you like!
 
 I really want to see your modifications or improvement tips, so contact me anytime!!
