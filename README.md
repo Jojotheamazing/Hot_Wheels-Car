@@ -51,7 +51,9 @@ Here is an image showing all the connections but here are some notes too:
 
 
 I should also credit an amazing YouTuber which I got inspiration for this project idea: @MaxImagination
+
 Go check his other projects: https://www.youtube.com/@MaxImagination
+
 
 Feel free to download everything and modify it however you like!
 
